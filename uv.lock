@@ -2070,6 +2070,7 @@ crypto = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "pymupdf"
 version = "1.27.2.3"
 source = { registry = "https://pypi.org/simple" }
@@ -2095,6 +2096,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> f9341406bddd650f7bde4e3658342437df50814d
 name = "pyperclip"
 version = "1.11.0"
 source = { registry = "https://pypi.org/simple" }
